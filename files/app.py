@@ -9,15 +9,6 @@ Start with:
 Stop with:
     Ctrl + C   or close the display window (press Q)
 
-Directory layout expected:
-    frootify_v2/
-    ├── app.py
-    ├── detector.py
-    ├── gpio_manager.py
-    ├── env_sensor.py
-    └── models/
-        └── best.onnx        ← your exported model
-"""
 
 import cv2
 import time
